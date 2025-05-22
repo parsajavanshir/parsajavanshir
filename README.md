@@ -26,7 +26,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Python
 - 💬 Ask me about everything in your mind.
 - 📫 How to reach me: in instagram: parsajavanshir , in linkedin: www.linkedin.com/in/parsa-javanshir-b3aa75239
 - ⚡ Fun fact:
