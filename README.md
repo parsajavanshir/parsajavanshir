@@ -1,131 +1,37 @@
-<h1 align="center">Hi 👋, I'm Parsa Javanshir</h1>
+# Parsa Javanshir
 
-<h3 align="center">
-  Backend Developer • Node.js • TypeScript • NestJS
-</h3>
+Backend developer focused on **Node.js, TypeScript, NestJS, APIs, databases, and Linux**. I am also developing practical skills in **web application security** and secure backend engineering.
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Building+scalable+backend+systems;Learning+Cybersecurity+%26+Linux"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+## Current focus
 
-<p align="center">
-  <a href="https://github.com/parsajavanshir">
-    <img
-      src="https://komarev.com/ghpvc/?username=parsajavanshir&label=Profile%20Views&style=flat"
-      alt="Profile Views"
-    />
-  </a>
+- Building maintainable backend systems with Node.js and NestJS
+- PostgreSQL, MongoDB, Redis, Docker, and API design
+- Web application security and penetration-testing fundamentals
+- Linux, networking, and deployment automation
 
-  <a href="https://github.com/parsajavanshir?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/parsajavanshir?label=Followers&style=flat"
-      alt="GitHub Followers"
-    />
-  </a>
-</p>
+## Core stack
 
----
+**Backend:** TypeScript, JavaScript, Node.js, NestJS, Express  
+**Databases:** PostgreSQL, MongoDB, Redis, MySQL  
+**Infrastructure:** Docker, Linux, Git, GitHub  
+**Tools:** Postman, Bash, PowerShell, VS Code  
+**Also learning:** Python, web application security, system design
 
-## 👨‍💻 About Me
+## Selected public projects
 
-- 💻 Backend developer focused on **Node.js, TypeScript and NestJS**
-- 🏗️ Interested in building **scalable and maintainable backend systems**
-- 🔐 Currently expanding my knowledge in **Cybersecurity and Linux**
-- 🐧 Comfortable working with Linux-based development environments
-- 📚 Always learning and experimenting with new technologies
-- 💬 Ask me about **Node.js, APIs, backend architecture and Linux**
+### [NestJS Football Server](https://github.com/parsajavanshir/nestjs_football_server)
+Legacy NestJS backend using TypeORM, MySQL, JWT authentication, Swagger, Firebase integration, and modular football-related services.
+
+### [Cloner](https://github.com/parsajavanshir/Cloner)
+PowerShell automation for cloning GitHub repositories and restarting IIS services during deployment workflows.
+
+### [Shiraz Linux Community](https://github.com/parsajavanshir/shirazlinuxcommunity)
+Website for the Shiraz Linux Community, including community information, meetups, conferences, and static web assets.
+
+## What I care about
+
+I prefer practical projects that teach me how systems work in production: backend architecture, authentication, databases, deployment, Linux, networking, and security.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend & Languages
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,python"
-    alt="Backend Technologies"
-  />
-</p>
-
-### Databases & Infrastructure
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,linux"
-    alt="Database and Infrastructure Technologies"
-  />
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash"
-    alt="Development Tools"
-  />
-</p>
-
-### Web
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,d3"
-    alt="Web Technologies"
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=parsajavanshir&show_icons=true&theme=transparent&hide_border=true&count_private=true"
-    alt="Parsa's GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsajavanshir&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    alt="Parsa's Most Used Languages"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=parsajavanshir&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=parsajavanshir&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🎯 Current Focus
-
-```text
-Backend Development   ███████████████████░   Node.js / NestJS
-Cybersecurity         ████████████░░░░░░░░   Learning & Practice
-Linux                 ███████████████░░░░░   Daily Environment
-System Design         ███████████░░░░░░░░░   Improving
+> Older repositories on this account include learning exercises and experiments. The projects above are a better starting point for reviewing my work.
