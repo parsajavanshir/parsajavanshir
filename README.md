@@ -17,11 +17,6 @@ Backend developer focused on **Node.js, TypeScript, NestJS, APIs, databases, and
 **Tools:** Postman, Bash, PowerShell, VS Code  
 **Also learning:** Python, web application security, system design
 
-## Selected public projects
-
-### [NestJS Football Server](https://github.com/parsajavanshir/nestjs_football_server)
-Legacy NestJS backend using TypeORM, MySQL, JWT authentication, Swagger, Firebase integration, and modular football-related services.
-
 ### [Shiraz Linux Community](https://github.com/parsajavanshir/shirazlinuxcommunity)
 Website for the Shiraz Linux Community, including community information, meetups, conferences, and static web assets.
 
